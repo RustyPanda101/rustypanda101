@@ -73,7 +73,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rustypanda101&icon=0&color=brightgreen&label=Profile+Views" alt="profile views"/>
+</p>
+---
 <p align="center">
   <i>Building systems one commit at a time.</i>
 </p>
